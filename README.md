@@ -8,3 +8,4 @@ Keep this up to date with all software that is development related and does not 
 
 - Postgresql & PGAdmin
 - MongoDB
+- SQL Server (using VS Code SQL extension for GUI)
